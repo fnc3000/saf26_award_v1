@@ -1,0 +1,121 @@
+﻿ID,Título da sinopse,chave_autor,nome_autor,aprovado,DIA
+50,Fraturamento no Pré-Sal e as Expectativas com o Uso da Fibra Óptica - Quebrando Paradigmas e Expandindo Horizontes,NTIH,CECILIA TOLEDO DE AZEVEDO,sim,1.0
+75,SIARP em Foco: Otimização na Detecção Anomalias e Avanços na Automatização da Gestão de Dano,BHL3,FERNANDO NASCIMENTO COELHO,sim,1.0
+81,"Kappa Automate na Petrobras: Evolução, Aplicações e Desafios",BHL3,FERNANDO NASCIMENTO COELHO,não,1.0
+83,Integração de Dados de Pressão Estática e Sísmica para Avaliação da Compartimentação do Campo de Mero,UPCH,LEONARDO SOUZA RODRIGUES,sim,1.0
+106,A Importância do Profissional Petrofísico na Liderança do Plano de Aquisição de Dados em Projetos de Desenvolvimento da Produção,CQF8,THIAGO MOURA DA SILVA ROSADO,não,2.0
+108,Explorando Aprendizado de Máquina na Interpretação de Testes de Formação em Reservatórios Carbonáticos de Dupla Permeabilidade,BSN1,LEONARDO GONCALVES,sim,2.0
+111,Automação na Análise de Dano: Aplicação do KAPPA-Automate no Campo de Roncador,BEDH,MARCELO RIBEIRO GALVAO,sim,2.0
+112,Rateio de vazão em poços com múltiplas zonas: Avanços em completações PACI e expansão para os campos de Mero e AGUP,FRRY,ELMAR ANTON SCHNORR FILHO,sim,2.0
+113,"Gera Búzios 2.0: A Evolução da Ferramenta que Constrói Pontes entre Dados, Sistemas e Pessoas na Avaliação de Búzios",BETM,LEONARDO OSÓRIO PELISOLI,não,2.0
+115,Modelo CRM - Análise de conectividade entre poços no pré-sal de Jubarte utilizando dados de vazão e traçadores químicos,BG0H,DANIEL FOLADOR ROSSI,sim,2.0
+116,"Dados Confiáveis, Decisões Seguras: o Panorama da base de dados de AR na AGP",BG0H,DANIEL FOLADOR ROSSI,não,2.0
+117,InibScale – Ferramenta de Estimativa e Apuração de Ganhos em Operações de Inibição de Incrustação por Squeeze,BG0H,DANIEL FOLADOR ROSSI,não,2.0
+120,Desafios e Lições na Avaliação e Completação do Poço 7-JUB-80D-ESS: Superando Barreiras em Campo Maduro do Pré-Sal com Finger de Água Elevado,CQF8,THIAGO MOURA DA SILVA ROSADO,sim,2.0
+124,Resiliência em Campos Maduros do Pré-Sal: Superando Desafios na Perfuração e Completação do Poço 7-JUB-78DA-ESS em Jubarte,CQF8,THIAGO MOURA DA SILVA ROSADO,não,2.0
+127,Avaliação de reservatório em área exploratória a partir de dados petrofísicos e dinâmicos: um estudo de caso,F3TH,THIAGO SOMOLINOS SOLDANI,sim,2.0
+129,Potencializando o Geolog™: panorama de implementação e suporte de aplicações de desenvolvimento interno,F3TH,THIAGO SOMOLINOS SOLDANI,não,2.0
+130,Efeitos da superposição de vazões em testes de injeção,BFX1,DANILO SOUSA DE OLIVEIRA,sim,2.0
+31,Integração de matrizes de transição e perfis na classificação de eletrofácies dos reservatórios carbonáticos do Pré-Sal,UR8Z,EDUARDO BARRETO OLIVEIRA,não,2.0
+44,Uso de Dados do Acompanhamento da Produção na Caracterização dos Modelos,BG4C,BRUNO COSTA PONTES,não,2.0
+45,Desenvolvimento de Painéis BI na AGUP/RES-EE,BG4C,BRUNO COSTA PONTES,não,2.0
+46,Workflow de Machine Learning para Regressão de Vazão em Poços Multi-Zona do Pré-Sal,BG4C,BRUNO COSTA PONTES,sim,2.0
+48,Do fundo do poço ao PI: aprendizados sobre falhas em sensores submarinos,BG0H,DANIEL FOLADOR ROSSI,não,2.0
+49,Metodologias de rateio de vazão entre zonas de produção de poços: Histórico e aplicações.,FEYU,ISABELA DO NASCIMENTO BOREL,sim,2.0
+6,APRENDIZADO PROFUNDO APLICADO À INTERPRETAÇÃO DE FÁCIES A PARTIR DE PERFIS DE IMAGEM ACÚSTICA,U4X2,LENITA DE SOUZA FIORITI,não,2.0
+61,"Análise do impacto da presença de betume na injetividade do poço 9-MLL-95A, Pré-Sal de Marlim Leste",UR8Z,EDUARDO BARRETO OLIVEIRA,sim,2.0
+62,"Muito além da avaliação: investigação, correção e reconstrução dos dados dos PDGs",BG0H,DANIEL FOLADOR ROSSI,não,2.0
+69,Energia Geotérmica – Cenário Atual e Perspectivas na Petrobras,GOB0,JOÃO PAULO PEREIRA NUNES,sim,2.0
+7,"Classificação digital de image facies controladas por variações de texturas, estruturas e artefatos em perfis de imagem analisados por aprendizado profundo.",U4X2,LENITA DE SOUZA FIORITI,sim,2.0
+71,Aplicação de mapas auto-organizáveis na classificação de fácies em reservatório carbonático do Pré-Sal da bacia de Santos,U4X2,LENITA DE SOUZA FIORITI,não,2.0
+73,Nova classificação de risco de incrustação inorgânica utilizando massa máxima precipitável e lógica fuzzy,BG0H,DANIEL FOLADOR ROSSI,não,2.0
+76,Simulação de Permeabilidade Relativa para CO₂ e Salmoura em Arenitos,B00Q,FRANCILEIDE GOMES DA COSTA,sim,2.0
+93,Operações Autônomas em Búzios: Colaboração Multidisciplinar para Geração de Valor,BETM,LEONARDO OSÓRIO PELISOLI,sim,2.0
+107,O Mapeamento de Reservatórios Durante a Perfuração: Como a Ferramenta de Resistividade UltraProfunda Azimutal 3D atua em Decisões de Geonavegação em Turbiditos na Bacia de Campos,U4GE,FABIO MIRANDA RIBEIRO,sim,3.0
+11,"Revisão da Estratégia de Aquisição de Dados no Campo de Búzios: Desafios, Adaptações e Resultados",U4YJ,WILLY VIANA BOHN,sim,3.0
+123,Uma nova proposta para um velho problema: modelagem de eletrofácies da formação Barra Velha do campo de Tupi,EVOP,PAULO RICARDO RIEDEL,sim,3.0
+16,O curioso caso do mecanismo auto injetor estabelecido no poço 3-SPS-69,BFS7,ALEXANDRE COIMBRA DE OLIVEIRA,sim,3.0
+19,Integração que entrega: petrofácies & Sw_Ht como base do comportamento dinâmico em Sapinhoá,CY1G,GABRIEL LUIZ PEREZ VIEIRA,sim,3.0
+24,Ferramentas de Neutrão Pulsado de Nova Geração: Da Aquisição à Integração com ES-MDA no Pré-Sal,DVHR,MARCOS VINICIUS SUGUINO,não,3.0
+25,A Fibra Óptica Temporária como Novo Paradigma para a Avaliação de Reservatórios no Pré-Sal Brasileiro,DVHR,MARCOS VINICIUS SUGUINO,sim,3.0
+32,Aplicação do Filtro de Kalman/ES-MDA na interpretação de testes de formação,BFY4,LEONARDO KENJI KUBOTA,não,3.0
+39,"Estudo comparativo das ferramentas SIARP, KAPPA Automate e RedDano para análise de dano em poços produtores.",FEUK,JOCENRIQUE CARLO DE OLIVEIRA RIOS FILHO,não,3.0
+42,Mitos e verdades na gestão de sensores PDG. TPT e PT-Anular,BGV8,CRISTIAN DOUGLAS PIMENTA,não,3.0
+43,Quanto custa recuperar um sensor PDG?,BGV8,CRISTIAN DOUGLAS PIMENTA,não,3.0
+52,Desafios do processo de upscaling,CXKE,ANDRÉ LUIZ MARTINS COMPAN,sim,3.0
+54,Mobilidade da Água em Zona de Transição,CXKE,ANDRÉ LUIZ MARTINS COMPAN,não,3.0
+56,Intervalo de confiança em dados laboratoriais de Petrofísica Básica e Especial,CXKE,ANDRÉ LUIZ MARTINS COMPAN,não,3.0
+57,Nem só de Estáticas viverá o Engenheiro: Nova Metodologia de Avaliação de Dano para o Gerenciamento de Reservatórios,CJ78,REWBENIO ARAÚJO FROTA,sim,3.0
+58,Hub CCS NC: Resgatando o Registro Histórico para Impulsionar a Descarbonização,UR93,RONALDO HERLINGER JUNIOR,não,3.0
+59,Caracterização de reservatórios com base na incorporação de dados ao longo do desenvolvimento da produção,BFS7,ALEXANDRE COIMBRA DE OLIVEIRA,não,3.0
+63,Análise de Dano em Poços Produtores Utilizando Dados de Pressão TPT,DVGA,GUSTAVO SANTANA DE SOUZA,não,3.0
+68,Rock Typing em Carbonatos do Pré‑Sal: Clusterização e Testes de Hipóteses como Ferramentas Quantitativas de Classificação,UR93,RONALDO HERLINGER JUNIOR,sim,3.0
+74,Sliding Sleeves Eletrônicas para Estimulação: Avanço Tecnológico Validado por Avaliação de Perfis e Testes,FRBV,DAYANA NUNES E SILVA,sim,3.0
+79,Integrando Sísmica 4D e Petrofísica no Campo de Búzios: Validando Anomalias e Revelando Detalhes da Dinâmica de Fluidos,U4HH,VALERIO PICORELLI LADEIRA DUTRA,sim,3.0
+8,Caracterização do Óleo Residual e Análise da Depleção Diferencial no Aquífero do Campo de Búzios,U4HH,VALERIO PICORELLI LADEIRA DUTRA,não,3.0
+80,Especificação de TI contingente em operação de TFR e seu impacto na amostragem de fluidos.,FEUK,JOCENRIQUE CARLO DE OLIVEIRA RIOS FILHO,sim,3.0
+82,Skin de turbulência em teste de poços produtores de óleo: mito ou possibilidade?,FEUK,JOCENRIQUE CARLO DE OLIVEIRA RIOS FILHO,não,3.0
+84,Além do hype: desafios e oportunidades do uso de ML/IA na Engenharia de Avaliação de Reservatórios,CJ78,REWBENIO ARAÚJO FROTA,não,3.0
+85,Eficiência Operacional em Águas Profundas: Impacto do Monitoramento de Pressão via BOP nos MTI Simplificados.,FEUK,JOCENRIQUE CARLO DE OLIVEIRA RIOS FILHO,não,3.0
+86,Monitoramento da pressão média: revisão e novos métodos,BFY4,LEONARDO KENJI KUBOTA,sim,3.0
+87,Além do MVP: a evolução do Chat Avaliação no apoio ao entendimento dos reservatórios,CJ78,REWBENIO ARAÚJO FROTA,não,3.0
+89,Aplicação da Petrofísica Digital na Avaliação de Permeabilidade Relativa em Reservatórios Carbonáticos Albianos,UR93,RONALDO HERLINGER JUNIOR,não,3.0
+9,Quando o betume impacta drasticamente na produtividade – o caso do campo de Búzios,U4HH,VALERIO PICORELLI LADEIRA DUTRA,não,3.0
+95,Portal Sensorama – o “pulo do gato” na gestão de sensores!,BGV8,CRISTIAN DOUGLAS PIMENTA,sim,3.0
+98,"Impactos e desafios da Completação Stand Alone nos novos poços da Zona CO140-ESS116, pós sal do Campo de Jubarte",DVGA,GUSTAVO SANTANA DE SOUZA,sim,3.0
+99,A história do primeiro poço interligado na FPMQT – 7-JUB-62DA-ESS: Da completação à intervenção (LWO),DVGA,GUSTAVO SANTANA DE SOUZA,não,3.0
+105,"É IPF mesmo? Integração de dados petrofísicos, geofísicos e de engenharia de poços na caracterização de intervalos com potencial de fluxo.",UT7P,RAFAEL RABELO MELO,sim,4.0
+110,PLT de Injetividade vs TI no Poço 8-JUB-70-ESS: Comparação de Metodologias e Produtos Interpretativos,FEXE,NATHAN GAZON DA SILVA,não,4.0
+118,"O papel estratégico da Avaliação: diagnosticando anomalias, propondo soluções e gerando valor",EVGI,THIAGO CAMPANATE POYARES DA ROCHA,sim,4.0
+119,Poços Horizontais em ARAM são uma boa opção?,CJ79,TIAGO ALMEIDA COSTA,sim,4.0
+12,Otimização do Escopo de Abandono Permanente em Poços do Campo de Namorado,U4XY,GUILHERME RUZZA SCHUCK,sim,4.0
+121,O Enigma da Navalha: Decifrando Testes de Formação com Occam,CJ95,FABRÍCIO D AZEVEDO ALVES DE MIRANDA,não,4.0
+122,DIAGNÓSTICO DE INTEGRIDADE COM MIT E PLT: APLICAÇÃO INTEGRADA NO POÇO MRL-93H,FEXE,NATHAN GAZON DA SILVA,sim,4.0
+126,A procura do corte perfeito: uma abordagem integrada para definição de cortes de porosidade,F3S1,ATILA FERREIRA PESSOA,sim,4.0
+13,"Avaliação de Áreas Exploratórias: Resultados, Desafios e Aprendizados Recentes na Petrobras",U3K2,VICTOR DA FONSECA MONTEIRO,sim,4.0
+14,Teste de Transiente Profundo: Primeira Aplicação de Nova Tecnologia de Avaliação de Formações na Petrobras,RM4E,BRUNO TOSTA BITTENCOURT,sim,4.0
+17,Metodologia otimizada para identificação e caracterização de intervalos com potencial de fluxo.,DAL2,OCTAVIO MACHADO NETO,sim,4.0
+26,Perfilagem de Integridade: Estratégia Essencial para Intervenções e Abandono de Poços,XMDF,ADRIA NAIFF GUIMARAES,sim,4.0
+29,Os MTIs na AGP são diferentes! Spoiler: E a culpa principal é da completação simples!,CJ95,FABRÍCIO D AZEVEDO ALVES DE MIRANDA,não,4.0
+30,BR100: Inovação e resiliência em um reservatório singular – Lições de dois poços pioneiros,CJ95,FABRÍCIO D AZEVEDO ALVES DE MIRANDA,sim,4.0
+33,Multifinger Caliper : A Nova Era da Autossuficiência e Precisão na Avaliação de Poços,CJ95,FABRÍCIO D AZEVEDO ALVES DE MIRANDA,não,4.0
+55,SAS em Marlim: Explorando o Desempenho em Condições Reais de Campo,FEXE,NATHAN GAZON DA SILVA,não,4.0
+67,Do Darcy ao Nano-Darcy: Metodologias de Avaliação de Formações nos Reservatórios não Convencionais da Fm. Vaca Muerta,BFI2,ALCIDES DA COSTA LINO NETO,sim,4.0
+70,Projeto de Sirius: impactos  plano de aquisição de dados executado na modelagem.,CTUB,CONRADO KEIDEL,sim,4.0
+72,Modelagem petrofísica com foco em geomecânica no cenário de poucos dados no pós-sal do Campo de Búzios,GOF6,JOÃO PAULO TEIXEIRA DA FONSECA,sim,4.0
+78,Avaliação de Poços de Alto Ângulo em Regime Multifásico: Fluxo de Trabalho e Produtos Analíticos,FEXE,NATHAN GAZON DA SILVA,não,4.0
+96,"SNL (Sonic Noise Log) na Petrobras: Primeiro uso, Avanços, Aprendizados e Novos Horizontes",CJ95,FABRÍCIO D AZEVEDO ALVES DE MIRANDA,não,4.0
+101,Análise de Incertezas de Curvas de Permeabilidade Relativa em Rochas Carbonáticas,BEMW,RODRIGO SURMAS,sim,5.0
+28,Modelagem Empírica Bivariada de Permeabilidade Relativa Água/Óleo,UPBB,ANDRE LUIS FERNANDES DA SILVA DE SOUZA,sim,5.0
+36,Simulação de Invasão de filtrado e Resistividade LWD Relog para estimativa de permeabilidade e KH,C5EE,FILIPE RAMOS DE ALBUQUERQUE,sim,5.0
+38,Primeira Aplicação da Técnica Single-Well Chemical Tracer Test (SWCTT) no Pré-Sal (Poço 8-LL-37D-RJS): Resultados e Lições Aprendidas.,BU8D,RAPHAEL AUGUSTO MELLO VIEIRA,sim,5.0
+60,Aspectos de Análise de Transientes de Injeção e Falloff a Partir de uma Operação de SWCTT – Caso de Campo do Teste no Poço 8-LL37D-RJS,FN14,EDUARDO AUGUSTO PUNTEL DE OLIVEIRA,sim,5.0
+100,Modelagem Multiescala do Escoamento Bifásico em Carbonatos,G56U,RÔMULO CENCI,não,
+102,Antecipação de Resultados de Permeabilidade em Rochas Carbonáticas: Integração da Minipermeametria com Imagens Microtomográficas,B2MY,ANDREIDY ANDRY DE ANDRADE,não,
+103,Análise de Molhabilidade e Saturação de Fluidos por Microtomografia de Alta Resolução,BD4D,JONATHAN SOUZA DA SILVA,não,
+104,"Simulação de Propriedades Elétricas em Rochas Digitais: Metodologia, Implementação e Aplicações",RQQ0,RODRIGO SKINNER,não,
+109,Integração de Perfis de Poços e Testes de Formação na Caracterização Petrofísica e na Conectividade Hidráulica de Reservatórios Carbonáticos do Pré-Sal: Abordagem para Redução de Incertezas,BSN1,LEONARDO GONCALVES,não,
+114,Construindo Confiança e Resultados: A Jornada do CT/AR junto ao GMP no AGP,BEDH,MARCELO RIBEIRO GALVAO,não,
+125,Impacto do uso de diferentes tabelas de pseudocomponentes na reconstituição composicional de fluidos de reservatório,BU9D,ALEXANDRE JAIME MELLO VIEIRA,não,
+128,"Intervalos com Baixa Resistividade e sua Influencia na Avaliação, Completação e Produção em Reservatórios Quissamã do Campo de Tartaruga Verde",CTWZ,FELIPE NOBRE REIS,não,
+15,Sobre o uso de água do mar em estimulação e tratamentos químicos de poços offshore.,HM25,ALEXANDRE ZACARIAS IGNACIO PEREIRA,não,
+18,Perfuração em Karst e zonas de fratura e as consequências na aquisição de dados e completação no Campo de Búzios,CTW6,GUILHERME DE ALMEIDA FERNANDES,não,
+27,Será o Gás de Injeção? Primeiras Feições em Perfil LWD Indicativas da Presença de Gás no Topo dos Reservatórios Carbonáticos do Pré-Sal,CLXC,FABIO LUIZ DE MORAES SILVA,não,
+34,Integração rocha-perfil: comparação entre dados de FRX do CoreDNA e perfis de poço,BG2Q,GABRIEL DO NASCIMENTO FREITAS,não,
+35,Fluxo Integrado para Reposicionamento de Amostras Laterais com Redução de Incertezas Interpretativas no Campo de Tupi,U3QD,PEDRO PAULO PIRES DE DEUS ROCHA,não,
+37,Lições da Área de Iracema para Planejamento e Execução de Avaliação Petrofísica com Foco na Tomada de Decisão Durante a Perfuração em Campos Maduros do Pré-Sal da Bacia de Santos,U3KL,THIAGO DAMBROSIO FERREIRA,não,
+40,Análise de Sensibilidade na Estimativa da Tensão Horizontal Máxima (SHmax): Impacto da Abertura dos Breakouts em Perfis de Imagem de Poços,U4XU,FELIPE SANTANA BUTTNER,não,
+41,Estruturação de Dados Interpretados de Perfis de Imagem: Uma Abordagem Colaborativa entre Petrofísica e Geomecânica na Petrobras,CY10,SILVIA AMELIA TRABULLO ALMADA LIMA,não,
+47,Planejamento e operação de caracterização de reservatório com ferramenta ORA-DTT na locação Curaçao Extremo Norte,BEQE,THIAGO CARNEIRO ELIAS,não,
+5,Integração Petrofísica-Geomecânica em Tupi: Elevando a Robustez dos Modelos 3D e a Confiabilidade no Gerenciamento do Campo,U4XU,FELIPE SANTANA BUTTNER,não,
+51,Aplicação de IA na Classificação de Ocorrências e Avaliação de Desempenho em Perfilagem LWD,LDB1,ANDERSON RAFAEL REZENDE ALVES,não,
+53,Modelagem analítica de ferramentas eletromagnéticas,U33Q,WILLIAN ANDRIGHETTO TREVIZAN,não,
+64,Valoração no Gerenciamento – Ferramenta para apuração de ganho em operações de acidificação em poços injetores,BEDH,MARCELO RIBEIRO GALVAO,não,
+65,Estudo de razão de permeabilidade vertical e horizontal a partir de testes de formação em poços horizontais e coerência dos resultados com os modelos geológico e petrofísico. Estudo de caso para o campo de Marlim.,CLRN,AUGUSTO ANDRE VIEIRA MACHADO,não,
+77,“Produzir Mais e Abandonar Melhor” - Um panorama sobre a atuação da Avaliação de Reservatórios no contexto da AGP,U3HO,ANA LUISA MACIEL,não,
+88,Correção do Perfil de Neutrão em Siliciclásticos,U419,FLAVIO MARCOS DE OLIVEIRA BERTO,não,
+90,SIRR em Transformação: Inovações no SIRR Web e Automação Inteligente na Gestão de Dados de Reservatórios e Avaliação de Formações,CTQ4,MONICA MARQUES DA FONSECA,não,
+91,O SIRR como ferramenta essencial na gestão eficiente de informações de reservatórios para SGIP,NT90,JEFFERSON LUIS DA SILVA,não,
+92,Descobrindo Barreiras Invisíveis: O Papel da Zona de Dano na Interpretação de Testes de Formação,BEDH,MARCELO RIBEIRO GALVAO,não,
+94,LMRVirtual – Solução para a assimilação de dados do laboratório de Mecânica das Rochas,CXNE,ERICK SLIS RAGGIO SANTOS,não,
+97,Controle de produção baseado em pressões regionais para a Jazida Compartilhada de Tupi: um exemplo prático do gerenciamento da borda leste,DVHS,LUIS FERNANDO DE SOUZA MOREIRA,não,
